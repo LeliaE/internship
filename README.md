@@ -11,11 +11,11 @@ Cochlear implant (CI) can restore sensation of hearing and near-perfect speech c
 [Deeply parent-child vocal interaction dataset](https://www.openslr.org/98/)  
 
 ## References
-[1] Wang, Z., Chang, Y., Schmeichel, B. J., & Garcia, A. A. (2022). The effects of mental fatigue on effort allocation: Modeling and estimation. Psychological review, 129(6), 1457–1485. https://doi.org/10.1037/rev0000365 \\
-[2] Dingemanse, G., & Goedegebure, A. (2022). Listening Effort in Cochlear Implant Users: The Effect of Speech Intelligibility, Noise Reduction Processing, and Working Memory Capacity on the Pupil Dilation Response. Journal of speech, language, and hearing research : JSLHR, 65(1), 392–404. https://doi.org/10.1044/2021_JSLHR-21-00230 \\
-[3] Holube, I., von Gablenz, P., & Bitzer, J. (2020). Ecological Momentary Assessment in Hearing Research: Current State, Challenges, and Future Directions. Ear and hearing, 41 Suppl 1, 79S–90S. https://doi.org/10.1097/AUD.0000000000000934 \\
-[4] J. Thiemann, N. Ito, and E. Vincent, “DEMAND: a collection of multi-channel recordings of acoustic noise in diverse environments,” June 2013. Supported by Inria under the Associate Team Program VERSAMUS. \\
-[5] T. Heittola, A. Mesaros, and T. Virtanen, “TAU Urban Acoustic Scenes 2019, Development dataset,” Mar. 2019. \\
-[6] D. Inc., “Deeply parent-child vocal interaction dataset,” 2021 \\
-[7] K. J. Piczak, “ESC: Dataset for Environmental Sound Classification,” in Proceedings of the 23rd Annual ACM Conference on Multimedia, pp. 1015–1018, ACM Press. \\
-[8] V. Panayotov, G. Chen, D. Povey, and S. Khudanpur, “Librispeech: an asr corpus based on public domain audio books,” in Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on, pp. 5206–5210, IEEE, 2015 \\
+[1] Wang, Z., Chang, Y., Schmeichel, B. J., & Garcia, A. A. (2022). The effects of mental fatigue on effort allocation: Modeling and estimation. Psychological review, 129(6), 1457–1485. https://doi.org/10.1037/rev0000365  
+[2] Dingemanse, G., & Goedegebure, A. (2022). Listening Effort in Cochlear Implant Users: The Effect of Speech Intelligibility, Noise Reduction Processing, and Working Memory Capacity on the Pupil Dilation Response. Journal of speech, language, and hearing research : JSLHR, 65(1), 392–404. https://doi.org/10.1044/2021_JSLHR-21-00230  
+[3] Holube, I., von Gablenz, P., & Bitzer, J. (2020). Ecological Momentary Assessment in Hearing Research: Current State, Challenges, and Future Directions. Ear and hearing, 41 Suppl 1, 79S–90S. https://doi.org/10.1097/AUD.0000000000000934  
+[4] J. Thiemann, N. Ito, and E. Vincent, “DEMAND: a collection of multi-channel recordings of acoustic noise in diverse environments,” June 2013. Supported by Inria under the Associate Team Program VERSAMUS.  
+[5] T. Heittola, A. Mesaros, and T. Virtanen, “TAU Urban Acoustic Scenes 2019, Development dataset,” Mar. 2019.  
+[6] D. Inc., “Deeply parent-child vocal interaction dataset,” 2021  
+[7] K. J. Piczak, “ESC: Dataset for Environmental Sound Classification,” in Proceedings of the 23rd Annual ACM Conference on Multimedia, pp. 1015–1018, ACM Press.  
+[8] V. Panayotov, G. Chen, D. Povey, and S. Khudanpur, “Librispeech: an asr corpus based on public domain audio books,” in Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on, pp. 5206–5210, IEEE, 2015  
